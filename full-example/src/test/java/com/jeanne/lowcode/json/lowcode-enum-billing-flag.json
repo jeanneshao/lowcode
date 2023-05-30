@@ -1,0 +1,20 @@
+[
+  {
+    "id": null,
+    "type": "billing-flag",
+    "value": 1,
+    "label": "prepaid"
+  },
+  {
+    "id": null,
+    "type": "billing-flag",
+    "value": 2,
+    "label": "postpaid"
+  },
+  {
+    "id": null,
+    "type": "billing-flag",
+    "value": 3,
+    "label": "hybrid"
+  }
+]
